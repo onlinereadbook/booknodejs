@@ -4,6 +4,7 @@
 | 主講者 | 實作項目 | 簡報連結 | 影片連結 |
 | ----- | ------- | ------- | ------- |
 | 盧承億 | FB機器人 | [連結](https://larry850806.github.io/weather) | [連結](https://youtu.be/c5gz5TxtEQk) |
+| Ann | Node-Red & Bluemix 加上 LoRa & Arduino實作 | 暫無 | [連結](https://www.youtube.com/watch?v=fsPvMrT-daI&feature=youtu.be) |
 
 ## 雲端服務介紹
 | 主講者 | 介紹項目 | 簡報連結 | 影片連結 |
