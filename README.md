@@ -3,7 +3,7 @@
 
 ### [讀書會過往影片](https://github.com/onlinereadbook/booknodejs/blob/master/讀書會過往影片/README.md)  
 
-### [其他線上讀書會](http://goo.gl/mQbjWw)
+### [其他線上讀書會](https://github.com/onlinereadbook/booknodejs/blob/master/線上讀書會列表/README.md)
 
 ## [讀書會注意事項](http://goo.gl/d9cRJ9)
 
