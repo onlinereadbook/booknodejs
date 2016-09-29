@@ -17,7 +17,7 @@
 | ----- | ------- | ------- | ------- |
 | lvan | TDD與MOCHA | [連結](https://www.slideshare.net/secret/wpcI5SaMMRBz8H) | [連結](https://youtu.be/c-6w2fWKEUg) |
 | 蔡秉文 | long polling server | [連結](http://www.slideshare.net/ssuser3e0b1d/long-polling-65300815) | [連結](https://www.youtube.com/watch?v=zpQ-Pkza1D8) |
-| 蔡秉文 | Linux Shell 基礎 | [連結](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command) | 暫無 |
+| 蔡秉文 | Linux Shell 基礎 | [連結](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command) | [連結](https://youtu.be/FBoYiq1pbD0) |
 | 黄彥銘 | git入門到團隊合作 | [連結](https://www.slideshare.net/secret/retavuvmp0Vbun) | [連結](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be) |
 | 陳慧鴻 | Sencha ExtJs | [連結](http://www.slideshare.net/chencanred/extjs-lk-web-template5e6-1hr) | [連結](https://youtu.be/Vy_V-nVx34o) |
 
