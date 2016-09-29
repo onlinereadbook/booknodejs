@@ -13,13 +13,13 @@
 | Tommy Wu | IBM Bluemix& Watson | 暫無 | [連結](https://www.youtube.com/watch?v=9BM5OVWrlek) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/10)
 
 ## 番外篇
-| 主講者 | 主題 | 簡報連結 | 影片連結 |
-| ----- | ------- | ------- | ------- |
-| lvan | TDD與MOCHA | [連結](https://www.slideshare.net/secret/wpcI5SaMMRBz8H) | [連結](https://youtu.be/c-6w2fWKEUg) |
-| 蔡秉文 | long polling server | [連結](http://www.slideshare.net/ssuser3e0b1d/long-polling-65300815) | [連結](https://www.youtube.com/watch?v=zpQ-Pkza1D8) |
-| 蔡秉文 | Linux Shell 基礎 | [連結](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command) | [連結](https://youtu.be/FBoYiq1pbD0) |
-| 黄彥銘 | git入門到團隊合作 | [連結](https://www.slideshare.net/secret/retavuvmp0Vbun) | [連結](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be) |
-| 陳慧鴻 | Sencha ExtJs | [連結](http://www.slideshare.net/chencanred/extjs-lk-web-template5e6-1hr) | [連結](https://youtu.be/Vy_V-nVx34o) |
+| 主講者 | 主題 | 簡報連結 | 影片連結 | 心得與討論 |
+| ----- | ------- | ------- | ------- | ------ |
+| lvan | TDD與MOCHA | [連結](https://www.slideshare.net/secret/wpcI5SaMMRBz8H) | [連結](https://youtu.be/c-6w2fWKEUg) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/4)
+| 蔡秉文 | long polling server | [連結](http://www.slideshare.net/ssuser3e0b1d/long-polling-65300815) | [連結](https://www.youtube.com/watch?v=zpQ-Pkza1D8) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/6)
+| 蔡秉文 | Linux Shell 基礎 | [連結](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command) | [連結](https://youtu.be/FBoYiq1pbD0) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/8)
+| 黄彥銘 | git入門到團隊合作 | [連結](https://www.slideshare.net/secret/retavuvmp0Vbun) | [連結](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/11)
+| 陳慧鴻 | Sencha ExtJs | [連結](http://www.slideshare.net/chencanred/extjs-lk-web-template5e6-1hr) | [連結](https://youtu.be/Vy_V-nVx34o) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/9)
 
 ## 文章
 | 作者 | 文章主題 | 文章連結 |
