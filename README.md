@@ -7,6 +7,12 @@
 
 ## [讀書會注意事項](http://goo.gl/d9cRJ9)
 
+第三彈線上nodejs讀書會 開催嚕
+
+這次來攻略alsotang大大的github
+
+https://github.com/alsotang/node-lessons
+
 每個人的部分
 
 - 1.會議時加入時記得先關麥克風

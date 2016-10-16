@@ -1,8 +1,8 @@
-### 第三彈攻略 alsotang 大大的 github 
+### 第三彈攻略 alsotang 大大的 github
 
 https://github.com/alsotang/node-lessons
 
-polo 認領
+盧承億 larry 認領
 
 Lesson 0: 《搭建 Node.js 开发环境》
 
@@ -30,7 +30,7 @@ CY web 認領
 
 Lesson 9: 《正则表达式》
 
-尚未認領
+盧承億 larry 認領
 
 Lesson 10: 《benchmark 怎么写》
 
@@ -48,7 +48,7 @@ CY web 認領
 
 Lesson 14: 《js 中的那些最佳实践》
 
-尚未認領
+Yu Ching Lee
 
 Lesson 15: 《Mongodb 与 Mongoose 的使用》
 
