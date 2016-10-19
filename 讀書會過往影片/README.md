@@ -6,7 +6,7 @@
 | 盧承億 | FB機器人 | [簡報](https://larry850806.github.io/weather) | [影片](https://youtu.be/c5gz5TxtEQk) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/5) |
 | Ann | Node-Red & Bluemix 加上 LoRa & Arduino實作 | 暫無 | [影片](https://www.youtube.com/watch?v=fsPvMrT-daI&feature=youtu.be) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/1) |
 | Alan | webRTC 掃雷 | 暫無 | [影片](https://www.youtube.com/watch?v=utDZNWA2PKg&feature=youtu.be) | [討論區]() |
-| Lanma  | nodejs with 7688 & pi 經驗分享 | [簡報](https://docs.google.com/presentation/d/1w6J85SOv01o8ZuZLuoNAW8Wy-BMkIIjbjk5GYOnRC0w/edit#slide=id.p) | 影片 | 討論區 |
+| Lanma  | nodejs with 7688 & pi 經驗分享 | [簡報](https://docs.google.com/presentation/d/1w6J85SOv01o8ZuZLuoNAW8Wy-BMkIIjbjk5GYOnRC0w/edit#slide=id.p) | [影片](https://www.facebook.com/readbook999/videos/1819306248311797/) | 討論區 |
 
 ## 雲端服務介紹
 | 主講者 | 介紹項目 | 簡報連結 | 影片連結 | 心得與討論 |
