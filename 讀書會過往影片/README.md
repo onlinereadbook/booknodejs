@@ -20,6 +20,11 @@
 | ----- | ------- | ------- | ------- | ------ |
 | Lanma  | nodejs with 7688 & pi 經驗分享 | [簡報](https://docs.google.com/presentation/d/1w6J85SOv01o8ZuZLuoNAW8Wy-BMkIIjbjk5GYOnRC0w/edit#slide=id.p) | [影片](https://www.facebook.com/readbook999/videos/1819306248311797/) | 討論區 |
 
+## 工具篇
+| 主講者 | 工具名稱 | 簡報連結 | 影片連結 | 心得與討論 |
+| ----- | ------- | ------- | ------- | ------ |
+| 默司 | VS editor | 暫無 | [影片1](https://www.facebook.com/readbook999/videos/1820498281525927/) [影片2](https://www.facebook.com/readbook999/videos/1821206701455085/) | [討論區]() |
+
 ## 番外篇
 | 主講者 | 主題 | 簡報連結 | 影片連結 | 心得與討論 |
 | ----- | ------- | ------- | ------- | ------ |
