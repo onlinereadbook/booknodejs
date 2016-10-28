@@ -39,9 +39,13 @@
 | 蔡秉文 | Linux Shell 基礎 | [簡報](http://www.slideshare.net/ssuser3e0b1d/basic-of-linux-shell-command) | [影片](https://youtu.be/FBoYiq1pbD0) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/8)
 | 黄彥銘 | git入門到團隊合作 | [簡報](https://www.slideshare.net/secret/retavuvmp0Vbun) | [影片](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/11)
 | 陳慧鴻 | Sencha ExtJs | [簡報](http://www.slideshare.net/chencanred/extjs-lk-web-template5e6-1hr) | [影片](https://youtu.be/Vy_V-nVx34o) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/9)
-| 默司 | Socket io | 暫無 | [影片](https://www.youtube.com/watch?v=nu8VepIex9I&feature=youtu.be) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/2)
+| 默司 | Socket io | 暫無 | [影片](https://www.youtube.com/watch?v=nu8VepIex9I&feature=youtu.be) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/2) |
+| Simem | Node.js 事件迴圈與 EventEmitter | 暫無 | [影片](https://www.youtube.com/watch?v=KjNbWQgdOwQ&feature=youtu.be&t=36m) | [討論區]() |
+| 默司 | React+Redux+Typescript TodoList | 暫無 | [影片](https://www.youtube.com/watch?v=eHDFmHgfVVs) | [討論區]() |
 
 ## 文章
 | 作者 | 文章主題 | 文章連結 |
 | ---- | ------- | ------- |
 | Simen | Node.js 的事件迴圈與 EventEmitter | [文章](https://simeneer.blogspot.tw/2016/09/nodejs-eventemitter.html) |
+| Simen | Callback 雜談 | [文章](https://simeneer.blogspot.tw/2015/07/callback_28.html) |
+| Simem | [譯文] 同步與非同步 Callback 風格的 APIs | [文章](https://simeneer.blogspot.tw/2015/09/callback-apis.html) |
