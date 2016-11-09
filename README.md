@@ -13,35 +13,35 @@
 
 https://github.com/alsotang/node-lessons
 
-盧承億 larry 認領
-Lesson 0: 《搭建 Node.js 开发环境》
-Lesson 1: 《一个最简单的 express 应用》
-Lesson 2: 《学习使用外部模块》
-Lesson 3: 《使用 superagent 与 cheerio 完成简单爬虫》
-CY wen 認領
-Lesson 4: 《使用 eventproxy 控制并发》
-Lesson 5: 《使用 async 控制并发》
-Timmy Ho 認領
-Lesson 6: 《测试用例：mocha，should，istanbul》
-Lesson 7: 《浏览器端测试：mocha，chai，phantomjs》 -- by @elrrrrrrr
-Lesson 8: 《测试用例：supertest》
-CY web 認領
-Lesson 9: 《正则表达式》
-盧承億 larry 認領
-Lesson 10: 《benchmark 怎么写》
-CY web 認領
-Lesson 11: 《作用域与闭包：this，var，(function () {})》 -- by @Ricardo-Li
-陳柏任 認領
-Lesson 12: 《线上部署：heroku》
-Lesson 13: 《持续集成平台：travis》
-CY web 認領
-Lesson 14: 《js 中的那些最佳实践》
-Yu Ching Lee 認領
-Lesson 15: 《Mongodb 与 Mongoose 的使用》
-David Lin 認領
-Lesson 16: 《cookie 与 session》 -- by @Ricardo-Li
-Lesson 17: 《使用 promise 替代回调函数》 -- by @eeandrew
-Lesson 18: 《何为 connect 中间件》 -- by @albin3
+- 盧承億 larry 認領<br>
+Lesson 0: 《搭建 Node.js 开发环境》<br>
+Lesson 1: 《一个最简单的 express 应用》<br>
+Lesson 2: 《学习使用外部模块》<br>
+Lesson 3: 《使用 superagent 与 cheerio 完成简单爬虫》<br>
+- CY wen 認領<br>
+Lesson 4: 《使用 eventproxy 控制并发》<br>
+Lesson 5: 《使用 async 控制并发》<br>
+- Timmy Ho 認領<br>
+Lesson 6: 《测试用例：mocha，should，istanbul》<br>
+Lesson 7: 《浏览器端测试：mocha，chai，phantomjs》 -- by @elrrrrrrr<br>
+Lesson 8: 《测试用例：supertest》<br>
+- CY web 認領<br>
+Lesson 9: 《正则表达式》<br>
+- 盧承億 larry 認領<br>
+Lesson 10: 《benchmark 怎么写》<br>
+- CY web 認領<br>
+Lesson 11: 《作用域与闭包：this，var，(function () {})》 -- by @Ricardo-Li<br>
+- 陳柏任 認領<br>
+Lesson 12: 《线上部署：heroku》<br>
+Lesson 13: 《持续集成平台：travis》<br>
+- CY web 認領<br>
+Lesson 14: 《js 中的那些最佳实践》<br>
+- Yu Ching Lee 認領<br>
+Lesson 15: 《Mongodb 与 Mongoose 的使用》<br>
+- David Lin 認領<br>
+Lesson 16: 《cookie 与 session》 -- by @Ricardo-Li<br>
+Lesson 17: 《使用 promise 替代回调函数》 -- by @eeandrew<br>
+Lesson 18: 《何为 connect 中间件》 -- by @albin3<br>
 
 每個人的部分
 
