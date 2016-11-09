@@ -14,6 +14,12 @@
 | wolke lin | AWS EB nodejs 入門 | [簡報](http://slides.com/wolkelin/deck#/3) | [影片](https://youtu.be/XGNwlz2y1K4) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/7)
 | Tommy Wu | IBM Bluemix& Watson | 暫無 | [影片](https://www.youtube.com/watch?v=9BM5OVWrlek) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/10)
 
+## Node Lessons 系列
+| 主講者 | 介紹項目 | 簡報連結 | 影片連結 | 心得與討論 |
+| ----- | ------- | ------- | ------- | ------ |
+| 盧承億 | 環境建置、Express、cheerio | [簡報](https://github.com/alsotang/node-lessons) | [影片](https://www.youtube.com/watch?v=H7ft7YlkV2E) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/13)
+| CY Wen | Eventproxy、Async、Nightwatch | [簡報](https://github.com/alsotang/node-lessons) | [影片](https://www.youtube.com/watch?v=37YlFDvUcsc) | [討論區](https://github.com/onlinereadbook/booknodejs/issues/13)
+
 
 ## 硬體實作
 | 主講者 | 實作項目 | 簡報連結 | 影片連結 | 心得與討論 |
